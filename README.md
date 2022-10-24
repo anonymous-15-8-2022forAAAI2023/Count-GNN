@@ -1,6 +1,6 @@
 
 # Count-GNN
-We provide the implementaion of Count-GNN model on Small,Large,MUTAG, OGB dataset.
+We provide the implementaion of Count-GNN model on Small,Large,MUTAG, OGB- dataset.
 
 The repository is organised as follows:
 - count-gnn/: contains our model.
