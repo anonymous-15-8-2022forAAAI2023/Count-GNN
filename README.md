@@ -3,7 +3,6 @@
 We provide the implementaion of Count-GNN model on Small,Large,MUTAG, OGB dataset.
 
 The repository is organised as follows:
-- data/: contains dataset.
 - count-gnn/: contains our model.
 - converter/: contains code to convert graphs to igraph format
 - generator/: contains code to generate queries and graphs
