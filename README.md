@@ -3,6 +3,7 @@
 We provide the implementaion of Count-GNN model on Small,Large,MUTAG, OGB-PPA dataset.
 
 The repository is organised as follows:
+- baselines/: contains baselines' models
 - count-gnn/: contains our model.
 - converter/: contains code to convert graphs to igraph format
 - generator/: contains code to generate queries and graphs
